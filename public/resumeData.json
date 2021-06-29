@@ -91,34 +91,36 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Project 1",
+        "title": "Capstone Project - Drip Xpress",
         "category": "",
-        "image": "",
-        "url": ""
+        "image": "finalproject.png",
+        "url": "https://github.com/jandres54/React-solo-project",
+        "description": "An ecommerce web application where users can browse products and add items to a cart.",
+        "tools": "Technologies and Languages used: React.js, Redux, Material UI, React-Bootstrap, CSS, Javascript, SupaBase."
       },
       {
-        "title": "Project 2",
+        "title": "Full Stack Project - Devkit",
         "category": "",
-        "image": "",
-        "url": ""
+        "image": "Devkit.png",
+        "url": "https://github.com/carlo1678/DevKit",
+        "description": "(DevKit)a study tool to help upcoming developers learn key concepts by creating notes, and note cards. Responsibilities while building this application was to create and style the notes page including mobile responsiveness",
+        "tools": "Technologies and Languages used: HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL, and Node.js"
       },
       {
-        "title": "Project 3",
+        "title": "Frontend Project - Weather App",
         "category": "",
-        "image": "",
-        "url": ""
+        "image": "weatherapp.png",
+        "url": "https://github.com/jandres54/digitalcrafts2021/tree/main/week_5/day1/examples",
+        "description": "A web application where users can search by zip code for weather updates using 3rd party API calls.",
+        "tools": "Technologies and Languages used: HTML, CSS, Javascript."
       },
       {
-        "title": "Project 4",
-        "category": "",
-        "image": "",
-        "url": ""
-      },
-      {
-        "title": "Project 5",
-        "category": "",
-        "image": "",
-        "url": ""
+        "title": "Frontend Project - Efficincy",
+        "category": "https://github.com/jandres54/Eficiency",
+        "image": "frontendproject1.png",
+        "url": "https://github.com/jandres54/Eficiency",
+        "description": "Efficiency is a solo project where I created a software application that helps the user find alternate Fuel gas stations. User experience allows customers to enter a zip code and displays nearby fuel stations as result of the search.",
+        "tools": "Technologies and Languages used: HTML, CSS, Javascript."
       }
     ]
   },
