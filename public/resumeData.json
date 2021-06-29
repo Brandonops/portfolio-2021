@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "Jorge Gonzalez",
+    "occupation": "Software Engineer",
+    "description": "with a passion for User Experience and Design",
+    "image": "https://avatars.githubusercontent.com/u/78658812?v=4",
+    "bio": "Creative software engineer with the ability to pickup new languages and technologies as needed. Priortobeing a software engineer, I worked as a management consultant for Accenture where I managed teams oftechnical engineers both onshore and offshore providingclients support and solutions to specificopportunities.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jandres.jago54@gmail.com",
+    "phone": "(832) 776-1571",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Houstan",
+      "state": "Texas",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jorge-gonzalez-8088b2161/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/jandres54",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "DigitalCrafts | Houston, TX",
+        "degree": "Certificate in Software Engineering",
+        "graduated": "March 2021 - June 2021",
+        "description": "Software engineering training program covering full-stack development including, but not limited to JavaScript, Python, including an emphasis on cutting-edge frameworks like React/Redux and server-side technologies including Node.js, Express, and PostgreSQL."
+      }
+    ],
+    "work": [
+      {
+        "company": "Walmart | Houston, TX",
+        "title": "Personal Shopper ",
+        "years": "August 2017 - May 2020",
+        "description1": "Responsible for liaising with customers to determine their specific needs, ultimate goals, budgets, and interests to find the appropriate items that best suit their needs.",
+        "description2": "Interacting with customers to know/determine what they are looking for, provide advice and knowledge of the best products to purchase, process purchase, and help with exchanges or returns.",
+        "description3": "Oversee the processing of customer orders, which involves processing orders on behalf of customers either via live chat, telephone calls, or email, and communicating with them to know what they are looking for, as well as any specific features they need the items to have."
+      },
+      {
+        "company": "Global Trailer | Houstan, TX / Oklahoma City, OK",
+        "title": " Manager, Dispatch ",
+        "years": "May 2015 - September 2016",
+        "description1": "Operations Manager in a company that provides transportation services within and outside the state of Texas",
+        "description2": "Responsabilities include: Provide great customer service, negotiate service rates, meet delivery dead lines and guarantee the safety of the drivers and the product transported",
+        "description3": "Evaluate traffic routes and weather conditions"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Project 1",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Project 2",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Project 3",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Project 4",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "Project 5",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "user": " Martin Fowler"
+      },
+      {
+        "text": "A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen. ",
+        "user": "Paul Graham"
+      }
+    ]
+  }
+}
